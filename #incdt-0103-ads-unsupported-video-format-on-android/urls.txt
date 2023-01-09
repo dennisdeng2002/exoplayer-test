@@ -1,0 +1,12 @@
+https://dcdn.instacart.com/videos/296b6f7c-4429-4a32-bbfe-a6f2e0a6a762-1/manifest.m3u8, 15353, a/00099bc5-95fc-4c34-8628-2296ddd9e199
+https://dcdn.instacart.com/videos/ec6d5101-9392-4288-bdd0-fca912a4f2c5-1/manifest.m3u8, 4758, a/000ca061-67d5-421f-9811-bffdb66325a3
+https://dcdn.instacart.com/videos/a640d366-f792-4a1e-83bc-922fb122d8ff-1/manifest.m3u8, 1000, a/00237f2d-a2cc-49ea-8091-9d9dcca6cc18
+https://dcdn.instacart.com/videos/a6d8e7cc-05a8-4808-a0f2-6720f5ef9263-1/manifest.m3u8, 378, a/01031651-d5de-43cb-b86e-315986d52f82
+https://dcdn.instacart.com/videos/e69d7fa8-300e-4731-b810-73792b367b7c-1/manifest.m3u8, 189, a/08693d0e-6a25-477c-adba-68f85c5c8fce
+https://dcdn.instacart.com/videos/3dba12d6-4a81-4764-9a21-8ba91582b75b-1/manifest.m3u8, 1, a/ec117eae-1e16-46c3-9ce6-a77995a3e5fd
+https://dcdn.instacart.com/videos/0194737d-38cc-4f77-9618-9e57f1517e44-1/manifest.m3u8, 1, a/da3d87c6-38d6-4a19-badd-6200533edfaa
+https://dcdn.instacart.com/videos/1923f73a-5d63-4020-aa9f-9648abd91661-1/manifest.m3u8, 1, a/658b2dc1-6591-4516-91d9-2b5e5e81daba
+https://dcdn.instacart.com/videos/36cd3ef0-9f73-4175-9fac-3d2e5e90e249-1/manifest.m3u8, 1, a/40a95649-b8f4-489e-87d8-e607f74340c4
+https://dcdn.instacart.com/videos/5b3ce3e5-bc3f-4e6a-a73b-8fed9b100c0d-1/manifest.m3u8, 1, a/1b860d14-1c37-451c-a4d9-8d8456f6032c
+https://dcdn.instacart.com/videos/973c58cc-7295-44a2-be7c-64f8ba825724-1/manifest.m3u8, 1, a/0abfc1b9-faad-40c7-abb7-137b3119bb75
+https://dcdn.instacart.com/videos/aa311414-2ae5-47f0-b323-c10f0ba2b7b6-1/manifest.m3u8, 1, a/00a5e1d4-7492-4dec-bc42-2a8dfce2a26d
