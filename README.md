@@ -1,3 +1,4 @@
+### Test Instructions
 1. Add desired videos to `assets/videos`
    1. ExoPlayer doesn't recognize `.ts` files out of the box, so just rename them to `.mpeg`
 2. Rebuild app
